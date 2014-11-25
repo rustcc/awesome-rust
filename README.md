@@ -1,5 +1,5 @@
 # Awesome Rust
-关于Rust代码和资源的一些汇总列表,受[awesome lists](https://github.com/bayandin/awesome-awesomeness)的启发
+关于Rust代码和资源的一些汇总列表,由[kud1ing](https://github.com/kud1ing/awesome-rust)发起和维护,受[awesome lists](https://github.com/bayandin/awesome-awesomeness)的启发
 只有稳定的和对用户有用的才会增加,如果很长一段时间项目一直不能使用Rust-nightly去构建将会被移到[UNSTABLE.md](UNSTABLE.md).
 
 - [Awesome Rust](#awesome-rust)
