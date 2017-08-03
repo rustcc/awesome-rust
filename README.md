@@ -98,7 +98,7 @@
   * [netvl/rust-xml](https://github.com/netvl/rust-xml) — 基于流的XML解析库 [<img src="https://travis-ci.org/netvl/rust-xml.svg?branch=master">](https://travis-ci.org/netvl/rust-xml)
 
 ### 游戏开发
-
+另请参见[Are we game yet?](http://arewegameyet.com/)
 * [bbodi/rust-voxlap](https://github.com/bbodi/rust-voxlap) — [Voxlap](http://advsys.net/ken/voxlap.htm)绑定
 * [PistonDevelopers/piston](https://github.com/pistondevelopers/piston) — [<img src="https://travis-ci.org/PistonDevelopers/piston.svg?branch=master">](https://travis-ci.org/PistonDevelopers/piston)
 * [SiegeLord/RustAllegro](https://github.com/SiegeLord/RustAllegro) — [Allegro 5](http://liballeg.org/)绑定 [<img src="https://travis-ci.org/SiegeLord/RustAllegro.svg?branch=master">](https://travis-ci.org/SiegeLord/RustAllegro)
@@ -106,6 +106,7 @@
 ### 游戏
 
 * [lifthrasiir/angolmois-rust](https://github.com/lifthrasiir/angolmois-rust) — 简约的音乐视频游戏支持BMS格式 [<img src="https://travis-ci.org/lifthrasiir/angolmois-rust.svg?branch=master">](https://travis-ci.org/lifthrasiir/angolmois-rust)
+
 
 ### GUI
 
@@ -129,6 +130,9 @@
 ### 图像处理
 
 * [PistonDevelopers/image](https://github.com/PistonDevelopers/image) — 图像的编码与解码 [<img src="https://travis-ci.org/PistonDevelopers/image.svg?branch=master">](https://travis-ci.org/PistonDevelopers/image)
+* [abonander/img_hash](https://github.com/abonander/img_hash) — 计算Hash值，比较图像相似性
+* [chyh1990/imageproc](https://github.com/chyh1990/imageproc) — 先进的图像处理库 [![Build Status](https://api.travis-ci.org/chyh1990/imageproc.svg?branch=master)](https://travis-ci.org/chyh1990/imageproc)
+* [kali/opencv-rust](https://github.com/kali/opencv-rust) — OpenCV绑定 [<img src="https://api.travis-ci.org/kali/opencv-rust.svg?branch=cv2">](https://travis-ci.org/kali/opencv-rust)
 
 ### 网络编程
 
@@ -141,6 +145,7 @@
 * Stomp
   * [zslayton/stomp-rs](https://github.com/zslayton/stomp-rs) — Rust实现[STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html)客户端 [<img src="https://api.travis-ci.org/zslayton/stomp-rs.svg?branch=master">](https://travis-ci.org/zslayton/stomp-rs)
 * ZeroMQ
+ * [erickt/rust-zmq](https://github.com/erickt/rust-zmq) — [ZeroMQ](http://zeromq.org/) bindings [<img src="https://api.travis-ci.org/erickt/rust-zmq.svg?branch=master">](https://travis-ci.org/erickt/rust-zmq)
 
 ### 模板引擎
 
@@ -154,7 +159,11 @@
 
 ### Web编程
 
-See also [http://arewewebyet.com/](http://arewewebyet.com/)
+另请参阅 
+
+[Are we web yet?](http://arewewebyet.com/)
+
+[Rust web framework comparsion](https://github.com/flosse/rust-web-framework-comparison)
 
 * Core
   * [chris-morgan/rust-http](https://github.com/chris-morgan/rust-http) — 将会被[Teepee](http://teepee.rs/)取代 [<img src="https://travis-ci.org/chris-morgan/rust-http.svg?branch=master">](https://travis-ci.org/chris-morgan/rust-http)
@@ -164,7 +173,10 @@ See also [http://arewewebyet.com/](http://arewewebyet.com/)
   * [vhbit/curl-rs](https://github.com/vhbit/curl-rs) — [libcurl](http://curl.haxx.se/libcurl/)绑定
 * Server
   * [Iron](http://ironframework.io/) — 灵感来源于[Express](http://expressjs.com/) [<img src="https://travis-ci.org/iron/iron.svg?branch=master">](https://travis-ci.org/iron/iron)
-  * [Nickel](http://nickel.rs/) — 灵感来源于[Express](http://expressjs.com/) [<img src="https://travis-ci.org/nickel-org/nickel.rs.svg?branch=master">](https://travis-ci.org/nickel-org/nickel.rs)
+  * [Nickel](https://github.com/nickel-org/nickel.rs/) — 灵感来源于[Express](http://expressjs.com/) [<img src="https://travis-ci.org/nickel-org/nickel.rs.svg?branch=master">](https://travis-ci.org/nickel-org/nickel.rs)
+  * [Rocket](https://github.com/SergioBenitez/Rocket) — 一个基于rust nightly的web框架[<img src="https://api.travis-ci.org/SergioBenitez/Rocket.svg?branch=master">](https://travis-ci.org/SergioBenitez/Rocket)
+  * [sappworks/sapper](https://github.com/sappworks/sapper) — 一个轻量级Rust实现的异步Web框架 [<img src="https://api.travis-ci.org/sappworks/sapper.svg?branch=master">](https://travis-ci.org/sappworks/sapper)
+  * [tiny-http](https://github.com/tiny-http/tiny-http) — 一个底层HTTP服务库 [<img src="https://api.travis-ci.org/frewsxcv/tiny-http.svg?branch=master">](https://travis-ci.org/frewsxcv/tiny-http)
 
 ## 资源
 
