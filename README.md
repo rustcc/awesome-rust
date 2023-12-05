@@ -13,6 +13,7 @@
     - [计算](#计算)
     - [密码学](#密码学)
     - [数据库](#数据库)
+    - [奥姆](#奥姆)
     - [编码](#编码)
     - [游戏开发](#游戏开发)
     - [游戏](#游戏)
@@ -74,6 +75,10 @@
     * [sfackler/rust-postgres](https://github.com/sfackler/rust-postgres) — [PostgreSQL](http://www.postgresql.org)驱动 [<img src="https://travis-ci.org/sfackler/rust-postgres.svg?branch=master">](https://travis-ci.org/sfackler/rust-postgres)
   * Sqlite
     * [linuxfood/rustsqlite](https://github.com/linuxfood/rustsqlite) — [Sqlite3](http://www.sqlite.org/)绑定
+
+### 奥姆
+
+* [njord](https://github.com/mjovanc/njord) - A lightweight ORM library for Rust [![build status](https://github.com/mjovanc/njord/actions/workflows/ci.yml/badge.svg)](https://github.com/mjovanc/njord/actions/workflows/ci.yml)
 
 ### 编码
 
